@@ -2,7 +2,7 @@
 # Python script to show Teams presence status on led
 # Author: Maximilian Krause
 # Modified by: Scott Byrkit
-# Date 2022-02-18
+# Date 2022-03-27
 
 # Define Error Logging
 def printerror(ex):
